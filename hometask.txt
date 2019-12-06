@@ -1,0 +1,10 @@
+https://github.com/alexaddros/lab1_les3.git
+
+2. Отличие в файле README -- "with nice buttons on his jacket (buttons branch):"
+
+4. init
+   heat added
+   boots
+   README added
+   dots
+   fix readme
