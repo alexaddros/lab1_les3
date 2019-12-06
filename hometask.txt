@@ -8,3 +8,4 @@ https://github.com/alexaddros/lab1_les3.git
    README added
    dots
    fix readme
+   added hometask.txt
